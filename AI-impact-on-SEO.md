@@ -22,6 +22,8 @@ AI plays a role in understanding and displaying structured data and rich snippet
 
 ## Personalization and Localization: 
 AI enables search engines to personalize search results based on a user's search history, preferences, location, and other factors. This localization and personalization can impact the SEO strategies of businesses targeting specific geographic regions or personalized user segments.
-- Write clean and readable code that is easy to understand and maintain.
+
+## Write clean and readable code that is easy to understand and maintain.
+AI ensures only efficient and lean code through enhanced algorithm is made available to applications.
 
 
